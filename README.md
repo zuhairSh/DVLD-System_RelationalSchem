@@ -8,7 +8,7 @@ A comprehensive Database Schema Design for an integrated system managing driving
 The system is built on a normalized relational database model designed to ensure data integrity and scalable workflow management.
 
 ### Entity Relationship Diagram (ERD)
-![DVLD Database Schema](DVDL_Diagram.drawio.png)
+![DVLD Database Schema](DVDL_Diagram.png)
 
 > **📥 High-Resolution Resource:** For detailed analysis, you can download the full-scale [Database Schema (PDF)](DVDL_Diagram.drawio.pdf).
 
